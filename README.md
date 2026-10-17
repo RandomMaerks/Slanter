@@ -15,11 +15,7 @@ Slanter is a rigid condensed sans-serif typeface with slanted apertures and shar
 
 ## Plans
 - Full ASCII
-- Intense font proofing for programming
-- Accent marks
-- Vietnamese
-- Box & block drawing characters
-- Other stuff people use with monospace fonts
+- Basic language support (Latin only)
 
 ## License
 This project is under the [SIL Open Font License 1.1](https://github.com/RandomMaerks/Accent-Mono/blob/main/LICENSE). If necessary, please save or print this document for future references.
