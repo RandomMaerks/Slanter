@@ -14,7 +14,7 @@ Slanter is a rigid condensed sans-serif typeface with slanted apertures and shar
 | Regular | 400 |
 
 ## Plans
-- Full ASCII
+- Full ASCII ✅
 - Basic language support (Latin only)
 
 ## License
