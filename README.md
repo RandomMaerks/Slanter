@@ -18,7 +18,7 @@ Slanter is a rigid condensed sans-serif typeface with slanted apertures and shar
 - Basic language support (Latin only)
 
 ## License
-This project is under the [SIL Open Font License 1.1](https://github.com/RandomMaerks/Accent-Mono/blob/main/LICENSE). If necessary, please save or print this document for future references.
+This project is under the [SIL Open Font License 1.1](https://github.com/RandomMaerks/Slanter/blob/main/LICENSE). If necessary, please save or print this document for future references.
 
 ## Contributing
 You can contribute to this project by opening an issue, creating a pull request, or by directly editing the source.
