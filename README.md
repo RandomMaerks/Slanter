@@ -15,7 +15,7 @@ Slanter is a rigid condensed sans-serif typeface with slanted apertures and shar
 
 ## Plans
 - Full ASCII ✅
-- Basic language support (Latin only)
+- Basic language support (Latin only) ✅
 
 ## License
 This project is under the [SIL Open Font License 1.1](https://github.com/RandomMaerks/Slanter/blob/main/LICENSE). If necessary, please save or print this document for future references.
